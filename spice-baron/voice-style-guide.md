@@ -47,7 +47,7 @@ Use technical or elevated words when they clarify texture. Avoid sounding thesau
 His interiority is observant, restrained, and body-conscious. He notices work, tools, materials, posture, and risk. He should not sound academically reflective. When he speaks at length, it should feel earned by pressure, revelation, or grief.
 
 ### The Baron
-He speaks with proprietary calm. He should sound civilized in a way that makes the violence worse. He treats people, spices, and architecture as proof of taste and dominion.
+He speaks with proprietary authority — loud, sweeping, flamboyant; he commands the room and knows it. He is not a brute losing control but a cruel sophisticate making an argument. His elaborateness is part of the cruelty: the violence happens in full light, with no attempt to look away from itself. He treats people, spices, and architecture as proof of taste and dominion.
 
 ### The Chef
 The Chef should sound exact, sensuous, and cultivated. He understands ingredients as structure and possibility, not mere indulgence. His language can open Gardner's world without becoming a sermon.

@@ -9,7 +9,9 @@
 - Gardner is gay, though he has not named or understood this about himself — his context has made him a largely non-sexual being; desire has had nowhere to go and no language to travel in
 - The Baron does not read Gardner as gay — he reads him as **too weak and subservient to even register desire**; in the Baron's philosophy, sex is power, and he considers Gardner completely beneath it; this contempt is a fatal blind spot
 - The relationship with the Chef is a sexual awakening and a general awakening together — to his own body, to Yoruba, to cooking, to the possibility of a life beyond the plantation
-- Gardner's connection to the Girls is present but thin in Act 1 — he crosses paths with them in the course of plantation life; they register each other without ceremony
+- Gardner's connection to the Girls is built through the kitchen as much as the grounds — they serve as kitchen maids alongside their other forced roles; the contact is regular, unremarkable, beneath the Baron's notice
+- The Baron sees Gardner as essentially a eunuch — beneath sexuality, beneath desire, furniture — which is why he feels no threat from Gardner's proximity to the Girls; this is the contempt that blinds him to the conspiracy forming right in front of him
+- This proximity is what makes Act 4 possible: Gardner and the Girls have a shared world the Baron has never thought to surveil
 - The woman who loved the executed chef becomes one of the Girls who acts in Act 4 — Gardner sees her face during the Reckoning, never forgets it; the novel closes this loop on its final pages
 - **Age: early 20s**
 - Arrives at Act 1 without self-knowledge about his own desire; it is not repressed so much as dormant — the conditions for it have never existed
@@ -32,10 +34,13 @@
 - Obsessed with possession — not with the experience of beautiful things but with the envy they produce in others
 - Reads Gardner as completely subservient and asexual — too weak and flaccid to even think about sex; this contempt makes him blind to Gardner as a threat
 - **Age: early 20s**
-- Wears elaborate, beautiful outfits purely for the envy they generate; feels nothing for the fabric or the fashion
+- **Physical presence**: flamboyant, sweeping, loud; he takes up space deliberately and completely; his gestures are large, his voice fills a room; he wants to be seen and heard at all times
+- He is the center of his own universe and conducts himself accordingly — not a brute, a **cruel sophisticate**; he has a philosophy and he articulates it; the violence is an argument, not a tantrum
+- His elaborateness makes the cruelty worse: it is performed in full light, with no attempt to look away from itself; there is nowhere in the room for the eye to escape to when he speaks
+- Wears elaborate, beautiful outfits purely for the envy they generate; feels nothing for the fabric or the fashion — his only pleasure is others' want
 - Keeps a large concubine (the "Girls") whom he uses as sexual objects and lends freely to his guards
 - Maintains his private army with alcohol, drugs, and access to the Girls
-- Speaks about the plantation, its contents, and his grandfather's ambition with proprietary calm
+- Speaks about the plantation, its contents, and his great-grandfather's ambition with sweeping authority — he is performing his philosophy at all times
 - His cruelty is civilized in register — he appraises, keeps, displays — which makes the violence worse
 - May have administered something to August in his final period (a nightly tincture the Baron mixed for him); this is unconfirmed but shadowed in the text
 
@@ -48,7 +53,13 @@
 - Comes to the plantation willingly
 - The Baron believes the Chef came for access to the plantation's rare ingredients — unparalleled spice stock, the greenhouses, the vanilla in bloom
 - In truth: the Chef is conducting **reconnaissance for Yoruba**, assessing the plantation for a potential takeover; Kehinde sent him
-- Gardner is not part of the plan. The romance is unscripted and becomes a genuine complication for the Chef
+- Gardner is not part of the plan initially. The romance is unscripted and becomes a genuine complication for Táiwò
+- Táiwò genuinely falls in love with Gardner — but Kehinde and possibly Táiwò himself also recognize Gardner's strategic value: he knows the Plantation completely, and his cooperation makes the takeover possible
+- The love is real; the convenience is also real; the novel does not have to resolve which came first
+- **The Oshun scene**: Kehinde tells Gardner about Táiwò's original mission before Táiwò can — she is a general, she doesn't obscure her operations; the honesty is its own form of respect and it cuts Gardner deeply
+- Gardner doubts whether Táiwò's love was ever real; Táiwò's answer is tender and unguarded: he wasn't expecting to fall in love, but now that he has, the mission matters more than ever — because if it succeeds, Gardner will be free; they can be together
+- **The unresolved tension**: Táiwò's vision of freedom meant leaving the Plantation together; Gardner is unsure he can leave — he is part of that place, it is the only world he has ever known, and belonging to it is inseparable from who he is; if Táiwò had lived, this would have been their first real conflict
+- Táiwò's execution forecloses that conflict; Gardner carries both the grief and the unanswered question
 - Exact, sensuous, cultivated in speech and manner; understands ingredients as structure and possibility
 - His language opens Gardner's world — to food, to Yoruba, to himself — without becoming a sermon
 - His execution in Act 4 is the novel's second Reckoning and the thing that finally breaks Gardner's endurance into action
@@ -71,6 +82,8 @@
 - Arrives as the emissary in Act 2; Gardner does not initially understand who she is in relation to Táiwò
 - Leads the charge in Act 3; her arrival in the epilogue — finding the Baron's spent corpse and Gardner draped across the chair — is the novel's final image shift
 - Her beauty, authority, and civic bearing will contrast sharply with the Baron: her power comes from stewardship and shared culture, not private hoarding
+- Sees Gardner's strategic importance clearly: he knows the Plantation's layout, its defenses, the cobots, the supply chains, the Baron's habits; he is the key to a clean takeover
+- Whether she would have recruited him without that value is a question the novel holds but does not answer
 
 ## August (former owner, deceased)
 

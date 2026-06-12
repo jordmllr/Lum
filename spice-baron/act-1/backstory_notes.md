@@ -14,6 +14,7 @@
 - August is a later generation — the great-grandfather's descendant — who inherited the estate and its philosophy but brought his own genuine feeling for the land
 - August had real love for the plants; he passed this to Gardner
 - His preference for Gardner over his own son (the Baron) is a wound that shapes everything that follows
+- **The family name DeGall**: French-prefixed Gulf South aristocratic pretension; but *gall* is a botanical term — a growth a plant forms around a wound or parasite; the plant's own tissue, proliferating abnormally, hollow at the center, hardened around something it could never expel; the Baron is a DeGall in every sense; the name is the novel's hidden key, unlocked only in the blooming
 
 ## Gardner's Origin
 

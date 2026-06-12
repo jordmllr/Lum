@@ -35,6 +35,14 @@
 - Gardner bringing Táiwò here is the first voluntary act of trust he has made with another person since August died
 - The lighthouse/lookout scene: Táiwò sees the horizon Gardner has always been forbidden to want; Gardner is the one who knows every root and bird call below — the inversion makes him briefly equal rather than below
 
+## The Great House
+
+- The Baron's domain; interior is overfull — collections pressed into every surface across four generations of DeGall accumulation; taxidermied things, inherited objects, proof of ownership stacked and displayed; the room itself makes the Baron's argument about having
+- **The kitchen**: working space shared by Gardner and the Girls in their capacity as kitchen maids; unremarkable to the Baron, which is why it becomes the staging ground for Act 4
+- **The dining room**: stage for the final dinner in Act 4; the Baron holds court in the middle of all his things; the excess should feel almost satirical against what Gardner is quietly doing with the wine
+
+## The Courtyard
+
 - Site of ritual violence and public spectacle
 - Spare, dry, ceremonial — the prose should tighten here
 - Where the chef's execution (Blood Eagle variant) takes place at the opening of Act 1
