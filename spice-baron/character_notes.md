@@ -1,4 +1,4 @@
-# Act 1 — Character Notes
+# Characters
 
 ## Gardner
 

@@ -1,4 +1,4 @@
-# Act 1 — Setting Notes
+# Setting Notes
 
 ## The Plantation — Overview
 

@@ -1,4 +1,4 @@
-# Act 1 — Narration Notes
+# Narration Notes
 
 ## Gardner's Physical Presence on the Page
 

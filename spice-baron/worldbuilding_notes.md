@@ -1,4 +1,4 @@
-# Act 1 — Worldbuilding Notes
+# Worldbuilding Notes
 
 ## The Post-Collapse World
 

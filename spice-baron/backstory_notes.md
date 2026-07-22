@@ -1,4 +1,4 @@
-# Act 1 — Backstory Notes
+# Backstory Notes
 
 ## The World
 
