@@ -1,4 +1,6 @@
-# Outline
+# Summary and goals
+We get our introduction to Gardner and the world of the Baron. During an execution of the chef for a minor offense, Gardner tries to focus on something else, disassociate. As soon as he's able, he escapes to his greenhouse, but he is interrupted by the Baron, remininding him that there is nowhere to hide, that he belongs to the Baron.
+
 # 1.1 - reckoning (star jasmine)
 - The Baron's term for public execution is **Reckoning** — formal, impersonal, which makes it worse; the word implies debt settled, order restored
 - The previous chef's offense: stealing a small amount of spice to bring home to a woman in the concubine — a secret relationship, tenderness expressed as contraband
@@ -25,7 +27,10 @@
 - This is their first exchange; the Baron's presence makes it formal and observed, but something passes between them regardless
 - **UUID placeholders for unnamed characters**: `[UUID-A]` — the woman from the concubine who loved the first chef; `[UUID-B]` — the first chef (executed); others to be assigned as needed
 
-# 1.4 - 
+# 1.4 - first meal
+- taiwo asks gardner to help him gather ingredients. Asks questions like he actually cares. like he sees things a little bit like Gardner sees things.
+- asks gardner to stay and help. 
+- serving the meal. 
 
 
 # plants
