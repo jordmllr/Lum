@@ -11,7 +11,7 @@ We get our introduction to Gardner and the world of the Baron. During an executi
 - The execution is a variant of the Blood Eagle — ritualized, deliberate, public spectacle; the prose should be ceremonial and tight, not frantic
 - Establishes: the Baron's philosophy in action (the chef's love was a weakness exploited), Gardner's learned endurance, and the cost of feeling anything in this place
 
-# 1.2 - greenhouse (vanilla pollinating)
+# 1.1.2 - greenhouse (vanilla pollinating)
 - Gardner flees to the vanilla and coffee section of the greenhouse complex
 - The vanilla is in bloom — fragrant, fleeting; this detail should be specific and sensory
 - He is among the cobots; their quiet industry is a counterpoint to the violence he just witnessed
@@ -20,7 +20,7 @@ We get our introduction to Gardner and the world of the Baron. During an executi
 - **The Baron plucks an orchid bloom, crushes its fleshy petals, and drops it to the ground** — not rage, not drama; casual, almost absent-minded. The act is the point.
 - Baron informs Gardner of the new chef
 
-# 1.3 - new chef (cinnamon peeling)
+# 1.2 - new chef (cinnamon peeling) this is an inciting incident. 
 - Arrival coincides with cinnamon peeling — sensory, labor-rich scene; red-brown bark curling in shallow baskets, the smell of it close and sweet
 - The Baron introduces Táiwò to the assembled staff or workers; he is visibly excited — this Chef is a prestigious figure from Yoruba, a prize
 - Táiwò has not yet been bent or broken by the Plantation; he speaks to Gardner like a person — not performing kindness, just offering it naturally; Gardner registers this as extraordinary
