@@ -8,4 +8,4 @@ He tries to remember the good times. Goes through some of his treasured things. 
 He falls asleep but a nightmare wakes him up. He climbs out up onto the roof, letting the night air and his sweat cool him. 
 
 1.1.4.4
-Staring out at the sea, feeling alone and lost, with the void yawning out before him.
+Staring out at the sea, feeling alone and lost, with the void yawning out before him. He thinks about the days and months to come. The cycle of beauty and nature and violence and power repeating itself over and over again. He thinks about the new chef coming. It'll be cinnamon season then. And goes to bed. 
