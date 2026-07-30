@@ -9,7 +9,7 @@
 ## The Plantation's Origins
 
 - The plantation was commissioned by the Baron's **great-grandfather** — an oil-fortune heir — sometime in the **2030s**, before the collapse
-- He foresaw the end and built a self-sufficient luxury-goods fortress in the Gulf swamp: gridshell greenhouses, fortified architecture, deep spice stock
+- He foresaw the end and built a self-sufficient luxury-goods fortress in the Gulf swamp: gridshell greenhouses, fortified architecture, deep spice stock. He was rich and had travelled the world, collecting beautiful things and experiences and was driven by the horror of a world collapse destroying that beauty. This could actually be left ambiguous. Was he motivated by aesthetics or avarice?
 - The collapse came; his prediction proved right; the plantation has now stood for roughly **100 years**
 - August is a later generation — the great-grandfather's descendant — who inherited the estate and its philosophy but brought his own genuine feeling for the land
 - August had real love for the plants; he passed this to Gardner

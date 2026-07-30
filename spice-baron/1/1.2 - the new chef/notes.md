@@ -1,4 +1,4 @@
-# Scene 2
+# Movement 2
 We have already established The Baron and Gardner at this point. We have a strong picture of Gardner's life. Scene 2 is where we are going to interrupt the status quo by introducing Taiwo.
 
 ## 1.2.1 - cinnamon peeling
@@ -19,3 +19,5 @@ Maybe worth adding in here that Gardner's synaesthesia is intense and Taiwo sees
 ## 1.2.4 - tasting the world
 The rest of the tour becomes almost indulgent. Gardner becomes so curious about Taiwo. He takes him to all of the plants he ahs been curious about that he has never tasted. It is as if his life had been lived in only a single color and now Taiwo and tilted the light through a prism and scattered it into a million bands of color distinct and bleeding into each other. Each time, they taste with salt, then sweet, then sour.
 Gardner crashes into his bed again and even though he closes his eyes, he can still see and hear and taste all those colors.
+
+probably should add him seeing something that still reminds him of where he is. Maybe guards taking a woman into the barracks, or doing some other such cruelty. He worries that the new chef may find himself on the frame one day.
