@@ -9,5 +9,4 @@ Finds Taiwo's notebook and reads it. Finds notes for a final meal. Offers to coo
 # 4.2.3 - leader of akantha visits
 She questions him. She can't stand it any longer. He seems unmoved. Eventually she slumps down next to him, exhausted. Then he tells her he has no plans of things going back to the way they used to be. 
 
-
 # 4.2.4
