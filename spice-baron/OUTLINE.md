@@ -97,18 +97,56 @@ Taiwo shares his loneliness. Says he feels like Gardner understands him, maybe h
 ### 1.4.4 The Kiss on the Watchtower
 Taiwo asks where Gardner lives. Gardner can't help mentioning that he has a couple special plants hes growing there, asks if Taiwo would like to see. 
 They go back to his house, Gardner makes tea and they go up to the lookout. They are close together and Taiwo brings out a small bundle of foods he brought from home. Things they could make there.
-# 2
+# 2 - 
 ## 2.1
 ## 2.2
 ## 2.3
 ## 2.4
-# 3
+# 3 - Yoruba and Hope for the Future
 ## 3.1
 ## 3.2
 ## 3.3
 ## 3.4
 # 4
-# 4.1
-# 4.2
-# 4.3
-# 4.4
+## 4.1
+### summary
+Taiwo and Gardner return home and their plotting is discovered. Gardner despairs and vascillates between hoping that the Yoruban party will arrive soon to liberate them, and wondering if he will die.
+## 4.2
+### summary
+The Baron executes Taiwo in a Reckoning, forcing Gardner to watch. Gardner goes into a stupor. There is no bottom to that depth. There would be no return.
+### 4.2.1 - released, aimless
+Gardner is released and obviously still grief stricken, but he does not retreat as he has before. He wanders around grieving in public and on the grounds. 
+### 4.2.2 - proposal for a final feast
+Finds Taiwo's notebook and reads it. Finds notes for a final meal. Offers to cook it for the Baron. Baron suspicious, but agrees.
+### 4.2.3 - leader of akantha visits
+She questions him. She can't stand it any longer. He seems unmoved. Eventually she slumps down next to him, exhausted. Then he tells her he has no plans of things going back to the way they used to be. 
+### 4.2.4 - ?
+## 4.3 - The Baron's Last Meal and Reckoning
+### summary
+Gardner plots the overthrow from within and executes it with help from the akantha. He doses the drink of a celebratory dinner with datura. Baron is suspicious so he makes Gardner drink first. he does. Baron then drinks. Soon the room starts to spin. Akantha slit all the guards throats. Gardner sees the world now as it is. It is only beauty. He performs a reckoning style execution on the Baron who is forced to face a mirror.
+### 4.3.1 - gathering ingredients
+Gardner follows the notes in Taiwo's book and feels some connection to him through it. He picks the hallucinogen that Taiwo introduced him to and takes some. 
+### 4.3.2 - cooking the dinner - we all die tonight
+Akantha help Gardner prepare the new meal. 
+### 4.3.3 - serving the dinner
+Gardner puts the poison into the cup and brings it out. He hands it to Baron, but Baron is suspicious and has him take a sip first in false generosity. Gardner takes a sip and sets it in front of the Baron. After a few moments, the Baron seems satisfied and takes a sip. Slowly, the effect of the datura takes hold. The Baron looks around and the guards are incapacitated and the akantha step forward to slit their throats. This begins the hallucination of blood as flowers.
+### 4.3.4 - the baron's reckoning
+This is a hallucinatory dream-sequence where flowers and streams bloom out of the baron until he unfolds into a beautiful landscape. The snow-capped peaks of mountains rising out of the red-field meadows of his bare back. He cuts and then there is a moment where life leaves the land and it shrivels into a brittle husk. An oak gall.
+## 4.4 - The New City of Beauty
+### summary
+In the aftermath of the bloodshed, a transformed Gardner lays down the foundations of his new city to Kehinde. The order of Akantha is born to protect the city. Whoever tries to plucks the rose shall find his flesh is stripped to ribbons.
+### 4.4.1 - Kehinde Arrives with a war party, but is met only by the dead. 
+### 4.4.2 - She searches around finding the place nearly deserted. Taken to new ruler
+### 4.4.3 - Coronation
+### 4.4.4 - Gardner talks to Kehinde
+
+# Unplaced
+- proposes trip to Yoruba for collecting specimins. They are wasted on those buffoons.
+    - Taiwo cultivates a contempt for Yoruba. What is the Baron's plan? How does Taiwo become part of it?
+- go on ingredient collecting adventure
+    - drugging the guards, dinner at the campfire
+    - get message from tree and respond
+    - killing the guards
+- Taiwo (maybe kahinde as well) explain the plan to Gardner
+- Baron aligns with Brimstone. The hands, the mouth, the eyes.
+- Travelling to Yoruba
